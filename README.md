@@ -96,7 +96,7 @@ check if you have done this correctly, open up the index.html page of this lab
 and you should see a list of Game Of Thrones titles on your webpage.
 
 **Note**: The tests in this lab need access to the `fetch()` request inside
-`fetchBooks()`. In order to give them access, write you solution so that
+`fetchBooks()`. In order to give them access, write your solution so that
 `fetchBooks()` _returns_ the `fetch()`. This will not change the behavior of
 your `fetch()`.
 
